@@ -1,7 +1,7 @@
 # Hey there, I'm Namita Achyuthan 🐝
 I'm an AIML Junior at PES University, and I absolutely love learning new things. I'm a big fan of math, ML, and neuroscience, but honestly, anything that piques my interest gets a deep dive. 
 
-Right now, I'm wokring on upping my skills in social computing with graphs, though the math is giving me a bit of trouble. If you're good with that, I could use some help!
+Right now, I'm working on upping my skills in social computing with graphs, though the math is giving me a bit of trouble. If you're good with that, I could use some help!
 
 - 📫 Reach me at [namitaachyuthan@gmail.com](mailto:namitaachyuthan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/namita-achyuthan/)
 - 💬 I'd love to talk about machine learning, computational biology, or any cool projects you have in mind. (or bees, I love em too.) 
