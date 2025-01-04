@@ -1,10 +1,10 @@
-# Hey there, I'm Namita Achyuthan 🐝
+# Hey there, I'm Namita Achyuthan 
 I'm an AIML Junior at PES University, and I absolutely love learning new things. I'm a big fan of math, ML, and neuroscience, but honestly, anything that piques my interest gets a deep dive. 
 
 Right now, I'm working on upping my skills in social computing with graphs, though the math is giving me a bit of trouble. If you're good with that, I could use some help!
 
 - 📫 Reach me at [namitaachyuthan@gmail.com](mailto:namitaachyuthan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/namita-achyuthan/)
-- 💬 I'd love to talk about machine learning, computational biology, or any cool projects you have in mind. (or bees, I love em too.) 
+- 💬 I'd love to talk about machine learning, computational biology, or any cool projects you have in mind.
 
 ## What I Can Work With
 
@@ -19,11 +19,11 @@ Right now, I'm working on upping my skills in social computing with graphs, thou
 ### [PINNs](https://github.com/broccubali/PINNs)
 A project focused on Physics-Informed Neural Networks (PINNs) and Kolmogrov Arnold Networks (KANs) to solve partial differential equations. 
 
-### SNN Building (private)
-A private repo where I'm working on building Spiking Neural Networks. The math is a little painful, but it's fun to work with. 
-
 ### [Phonkify Me](https://github.com/namita-ach/Phonkify-Me)
 A project where I combine my love for music and machine learning to find songs similar to my favorites. Phonk ftw. 
+
+### SNN Building (private)
+A private repo where I'm working on building Spiking Neural Networks. The math is a little painful, but it's fun to work with. 
 
 ## [My Blog](https://namitalearns.substack.com)
 I talk about Math, ML, and Neuroscience. My three most favorite things in the world. Some extra bio occassionally, but on the broader side of things, those three most likely top it all.
