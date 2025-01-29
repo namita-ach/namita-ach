@@ -22,9 +22,6 @@ A project focused on Physics-Informed Neural Networks (PINNs) and Kolmogrov Arno
 ### [Phonkify Me](https://github.com/namita-ach/Phonkify-Me)
 A project where I combine my love for music and machine learning to find songs similar to my favorites. Phonk ftw. 
 
-### SNN Building (private)
-A private repo where I'm working on building Spiking Neural Networks. The math is a little painful, but it's fun to work with. 
-
 ## [My Blog](https://namitalearns.substack.com)
 I talk about Math, ML, and Neuroscience. My three most favorite things in the world. Some extra bio occassionally, but on the broader side of things, those three most likely top it all.
 
